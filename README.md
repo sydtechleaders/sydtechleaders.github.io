@@ -1,6 +1,6 @@
 **Sydney Technology Leaders** is a meetup group focused on Technology Leadership. A place for CTOs, Dev Managers, Directors and Team Leads (and those aspiring to those positions) to go and share ideas, discuss problems, network, and provide/receive mentoring. 
 
-Follow us on Twitter [@SydTechLeaders](https://twitter.com/SydTechLeaders) or [Join our Slack Channel](https://docs.google.com/forms/d/1PNctNZE45Sj0bTRpmoRw4GKIaFWT_9lS10SBlZweiAg).
+Follow us on Bluesky [@sydtechleaders.bsky.social](https://bsky.app/profile/sydtechleaders.bsky.social) or [Join our Slack Channel](https://docs.google.com/forms/d/1PNctNZE45Sj0bTRpmoRw4GKIaFWT_9lS10SBlZweiAg).
 
 Organisers: [Anne-Marie Charrett](https://www.linkedin.com/in/testingtimes/), [Jack Skinner](https://www.linkedin.com/in/gdayitsjack/), [Sugendaran Ganess](https://www.linkedin.com/in/sugendran/), and [David Edgar](https://www.linkedin.com/in/edgardavid/).
 
